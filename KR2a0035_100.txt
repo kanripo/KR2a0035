@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 金史
-#+DATE: 2015-09-23 09:42:19
-#+PROPERTY: JUAN 100
+#+DATE: 2015-08-24 22:22:21.775302
+#+PROPERTY: ID KR2a0035
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百
 <pb:KR2a0035_WYG_100-1a>¶
 欽定四庫全書¶
 　金史卷一百¶
@@ -452,4 +454,3 @@
 　¶
 　¶
 　金史卷一百¶
-

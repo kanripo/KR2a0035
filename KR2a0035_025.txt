@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 金史
-#+DATE: 2015-09-23 09:42:19
-#+PROPERTY: JUAN 25
+#+DATE: 2015-08-24 22:22:20.129674
+#+PROPERTY: ID KR2a0035
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十五
 <pb:KR2a0035_WYG_025-1a>¶
 欽定四庫全書¶
 　金史卷二十五¶
@@ -416,4 +418,3 @@
 　¶
 　¶
 　金史巻二十五¶
-

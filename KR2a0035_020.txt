@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 金史
-#+DATE: 2015-09-23 09:42:19
-#+PROPERTY: JUAN 20
+#+DATE: 2015-08-24 22:22:20.023357
+#+PROPERTY: ID KR2a0035
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十
 <pb:KR2a0035_WYG_020-1a>¶
 欽定四庫全書¶
 　金史卷二十¶
@@ -416,4 +418,3 @@
 一日始滅凡四十有八日司天奏其咎在北哀宗曰我¶
 亦北人今日之事我當滅也何乃不先不後適丁此乎¶
 　金史卷二十¶
-

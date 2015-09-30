@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 金史
-#+DATE: 2015-09-23 09:42:19
-#+PROPERTY: JUAN 78
+#+DATE: 2015-08-24 22:22:21.281096
+#+PROPERTY: ID KR2a0035
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七十八
 <pb:KR2a0035_WYG_078-1a>¶
 欽定四庫全書¶
 　金史卷七十八¶
@@ -218,4 +220,3 @@
 先入相兩朝幾二十年成功著業世宗稱其賢焉¶
 　¶
 　金史卷七十八¶
-

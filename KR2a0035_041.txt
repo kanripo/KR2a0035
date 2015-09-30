@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 金史
-#+DATE: 2015-09-23 09:42:19
-#+PROPERTY: JUAN 41
+#+DATE: 2015-08-24 22:22:20.468025
+#+PROPERTY: ID KR2a0035
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四十一
 <pb:KR2a0035_WYG_041-1a>¶
 欽定四庫全書¶
 　金史卷四十一¶
@@ -470,6 +472,7 @@
 　¶
 　¶
 　金史卷四十一¶
+#+PROPERTY: JUAN 卷四十一考證
 <pb:KR2a0035_WYG_041-27a>¶
 　金史卷四十一考證¶
 儀衛志上苣紋旗　案苣紋宋史儀衛志作苣文宣和¶
@@ -488,4 +491,3 @@
 　¶
 　¶
 　金史卷四十一考證¶
-

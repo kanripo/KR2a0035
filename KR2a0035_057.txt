@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 金史
-#+DATE: 2015-09-23 09:42:19
-#+PROPERTY: JUAN 57
+#+DATE: 2015-08-24 22:22:20.829786
+#+PROPERTY: ID KR2a0035
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十七
 <pb:KR2a0035_WYG_057-1a>¶
 欽定四庫全書¶
 　金史巻五十七¶
@@ -524,4 +526,3 @@
 　¶
 　¶
 　金史卷五十七¶
-
